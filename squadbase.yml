@@ -4,5 +4,5 @@ build:
   framework: nextjs
   runtime: node22
 
-deployment;
+deployment:
   provider: aws
