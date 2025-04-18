@@ -6,3 +6,5 @@ build:
 
 deployment:
   provider: aws
+  aws:
+    region: ap-northeast-1
